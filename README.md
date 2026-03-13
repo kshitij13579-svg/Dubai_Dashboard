@@ -154,7 +154,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Vivek** — GMBA Student, SP Jain School of Global Management (Jan 2025 Cohort)
+**Yeshaswini** — GMBA Student, SP Jain School of Global Management (Jan 2025 Cohort)
 
 ---
 
